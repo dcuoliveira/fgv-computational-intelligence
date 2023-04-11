@@ -1,1 +1,1 @@
-# FGV_Computational_Intelligence
+# fgv-computational-intelligence
